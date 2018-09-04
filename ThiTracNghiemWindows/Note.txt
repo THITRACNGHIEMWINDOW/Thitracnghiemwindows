@@ -1,0 +1,9 @@
+﻿Phần mềm
+- Quản lý sinh viên (thông tin + ds sv)
++Họ tên, hình, lớp, mssv (id) ngày sinh, địa chỉ, giới tính
++ Nút thêm click vào sẽ hiện lên form đăng ký
+Thay đổi datasoure trong gridview
++Tạo thêm table phòng thi kiểm soát form sinh viên và quản lý theo phòng (khóa giữa phòng và môn )
++ Sau khi chọn môn thi mới mở phòng thi theo môn đó
++Thay đổi gridview lịch thi thì mới mở nút xóa sửa lưu l thi
++ Tạo add tab thì cần tạo usercontrol
